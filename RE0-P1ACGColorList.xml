@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "ACG_TianYiBlue">#66ccff</color>
+    <color name = "ACG_RemBlue">#3399ff</color>
+    <color name = "ACG_RamPink">#faa1b5</color>
+    <color name = "ACG_ItouOrange">#ffa500</color>
+    <color name = "ACG_LingRed">#EE0000</color>
+    <color name = "ACG_MikuGreen">#66FFCC</color>
+    <color name = "ACG_PiyoBeige">#b7ac90</color>
+    <color name = "ACG_LazyGreen">#306549</color>
+    <color name = "ACG_OshinoYellow">#fff98b</color>
+    <color name = "ACG_HighBlack">#000000</color>
+</resources>

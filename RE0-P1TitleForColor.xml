@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ACG_TianYi">天依蓝：#66ccff</string>
+    <string name = "ACG_Rem">雷姆蓝：#3399ff</string>
+    <string name = "ACG_Ram">拉姆粉：#faa1b5</string>
+    <string name = "ACG_Itou">伊藤橙：#ffa500</string>
+    <string name = "ACG_Ling">阿绫红：#EE0000</string>
+    <string name = "ACG_Miku">初音绿：#66FFCC</string>
+    <string name = "ACG_Piyo">小鸟米：#b7ac90</string>
+    <string name = "ACG_Lazy">怠惰绿：#306549</string>
+    <string name = "ACG_Oshino">小忍黄：#fff98b</string>
+    <string name = "ACG_High">高端黑：#000000</string>
+</resources>
